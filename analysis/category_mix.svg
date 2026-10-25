@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-label="01  |  Which categories carry the sales mix?">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.title{font-size:25px;font-weight:700;fill:#14243a}.sub{font-size:13px;fill:#68788d}.label{font-size:14px;fill:#263a52}.small{font-size:12px;fill:#68788d}.value{font-size:13px;font-weight:650;fill:#14243a}.grid{stroke:#e8edf3;stroke-width:1}.axis{stroke:#cdd7e2;stroke-width:1}</style>
+<text class="title" x="36" y="42">01  |  Which categories carry the sales mix?</text>
+<text class="sub" x="36" y="67">All 11 saved category summaries · source sales units · currency and period unspecified</text>
+<text class="label" text-anchor="end" x="176" y="121">Confections</text>
+<rect x="190" y="105" width="620" height="22" rx="5" fill="#12a89d"/>
+<text class="value" x="820" y="121">574.1m  ·  12.9%</text>
+<text class="label" text-anchor="end" x="176" y="158">Meat</text>
+<rect x="190" y="142" width="548" height="22" rx="5" fill="#12a89d"/>
+<text class="value" x="748" y="158">508.1m  ·  11.4%</text>
+<text class="label" text-anchor="end" x="176" y="195">Poultry</text>
+<rect x="190" y="179" width="489" height="22" rx="5" fill="#12a89d"/>
+<text class="value" x="689" y="195">453.6m  ·  10.2%</text>
+<text class="label" text-anchor="end" x="176" y="232">Cereals</text>
+<rect x="190" y="216" width="475" height="22" rx="5" fill="#2878b5"/>
+<text class="value" x="675" y="232">440.6m  ·  9.9%</text>
+<text class="label" text-anchor="end" x="176" y="269">Snails</text>
+<rect x="190" y="253" width="414" height="22" rx="5" fill="#2878b5"/>
+<text class="value" x="614" y="269">383.6m  ·  8.6%</text>
+<text class="label" text-anchor="end" x="176" y="306">Produce</text>
+<rect x="190" y="290" width="410" height="22" rx="5" fill="#2878b5"/>
+<text class="value" x="610" y="306">379.7m  ·  8.5%</text>
+<text class="label" text-anchor="end" x="176" y="343">Beverages</text>
+<rect x="190" y="327" width="408" height="22" rx="5" fill="#2878b5"/>
+<text class="value" x="608" y="343">377.9m  ·  8.5%</text>
+<text class="label" text-anchor="end" x="176" y="380">Dairy</text>
+<rect x="190" y="364" width="394" height="22" rx="5" fill="#2878b5"/>
+<text class="value" x="594" y="380">365.2m  ·  8.2%</text>
+<text class="label" text-anchor="end" x="176" y="417">Seafood</text>
+<rect x="190" y="401" width="367" height="22" rx="5" fill="#2878b5"/>
+<text class="value" x="567" y="417">340.7m  ·  7.6%</text>
+<text class="label" text-anchor="end" x="176" y="454">Grain</text>
+<rect x="190" y="438" width="360" height="22" rx="5" fill="#2878b5"/>
+<text class="value" x="560" y="454">333.9m  ·  7.5%</text>
+<text class="label" text-anchor="end" x="176" y="491">Shell fish</text>
+<rect x="190" y="475" width="333" height="22" rx="5" fill="#2878b5"/>
+<text class="value" x="533" y="491">308.8m  ·  6.9%</text>
+<text class="small" x="190" y="519">The top three categories account for 34.4% of category sales.</text>
+</svg>

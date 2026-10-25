@@ -1,0 +1,58 @@
+{
+  "scope": "Saved aggregate PivotTable summaries only",
+  "unit": "source sales units; currency and reporting period unspecified",
+  "business_questions": [
+    {
+      "question": "How much of category sales is concentrated in the three largest categories?",
+      "answer": "34.39% across Confections, Meat, Poultry.",
+      "decision": "Prioritize margin, stock availability, and repeat-rate analysis for these categories; do not infer profitability from sales mix."
+    },
+    {
+      "question": "How far apart are the category sales leaders and smallest category?",
+      "answer": "Confections is 574.1m; Shell fish is 308.8m; leader is 1.86x the smallest, a 85.9% gap.",
+      "decision": "Use as an assortment-review shortlist, then check margin, stock-outs, and promotion exposure before changing placement."
+    },
+    {
+      "question": "Are the workbook's displayed Top 10 cities clearly separated in sales?",
+      "answer": "48.09m\u201349.99m; range is 3.88% of their mean.",
+      "decision": "The displayed group is tightly clustered; this summary alone does not justify reallocating city spend."
+    },
+    {
+      "question": "Is missing customer attribution material for customer analytics?",
+      "answer": "11.42m in the blank bucket, approximately 0.256% of category sales.",
+      "decision": "Small share of category total, but resolve customer keys before retention, lifetime-value, or personalization decisions."
+    }
+  ],
+  "category_count": 11,
+  "category_sales_total": "4466259165.5234",
+  "top_three_share_pct": "34.39",
+  "top_three_categories": [
+    {
+      "category": "Confections",
+      "sales_source_units": "574103282.3130"
+    },
+    {
+      "category": "Meat",
+      "sales_source_units": "508114388.7542"
+    },
+    {
+      "category": "Poultry",
+      "sales_source_units": "453613922.3477"
+    }
+  ],
+  "top_bottom_category_ratio": "1.86",
+  "top_bottom_category_gap": "265293114.9436",
+  "displayed_top10_city_count": 10,
+  "displayed_top10_city_min": "48091855.4730",
+  "displayed_top10_city_max": "49988921.0898",
+  "displayed_top10_city_relative_range_pct": "3.88",
+  "blank_customer_bucket_sales": "11415763.1766",
+  "blank_customer_share_pct_approx": "0.256",
+  "limitations": [
+    "No transaction-level rows available to this analysis.",
+    "Currency and reporting period are unspecified.",
+    "City values cover only the workbook's displayed Top 10.",
+    "Blank-customer value is from a separate saved PivotTable and should be recalculated at a consistent grain.",
+    "No margin, cost, returns, inventory, order count, trend, or campaign data; no causal or profitability claims are supported."
+  ]
+}

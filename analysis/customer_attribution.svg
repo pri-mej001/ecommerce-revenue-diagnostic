@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" role="img" aria-label="04  |  Is customer attribution complete enough for CRM?">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.title{font-size:25px;font-weight:700;fill:#14243a}.sub{font-size:13px;fill:#68788d}.label{font-size:14px;fill:#263a52}.small{font-size:12px;fill:#68788d}.value{font-size:13px;font-weight:650;fill:#14243a}.grid{stroke:#e8edf3;stroke-width:1}.axis{stroke:#cdd7e2;stroke-width:1}</style>
+<text class="title" x="36" y="42">04  |  Is customer attribution complete enough for CRM?</text>
+<text class="sub" x="36" y="67">A saved blank-customer bucket is a data-quality signal; it is not a customer-level performance analysis</text>
+<text class="label" x="80" y="125">Share of category sales attributed to blank customer bucket</text>
+<rect x="80" y="165" width="800" height="36" rx="8" fill="#e8edf3"/>
+<rect x="80" y="165" width="2.04" height="36" rx="8" fill="#e56f51"/>
+<text class="value" x="80" y="236">0.256%  ·  11.42m source units</text>
+<text class="small" x="80" y="263">Magnified callout: the red segment is shown at actual scale above. The source bucket comes from a separate saved PivotTable.</text>
+<rect x="80" y="295" width="800" height="48" rx="8" fill="#fff6e8"/>
+<text class="label" x="96" y="325">Action: trace blank customer keys before using retention, LTV, or customer-segment revenue.</text>
+</svg>

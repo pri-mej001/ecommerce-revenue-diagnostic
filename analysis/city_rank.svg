@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-label="03  |  Are the displayed Top 10 cities meaningfully different?">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.title{font-size:25px;font-weight:700;fill:#14243a}.sub{font-size:13px;fill:#68788d}.label{font-size:14px;fill:#263a52}.small{font-size:12px;fill:#68788d}.value{font-size:13px;font-weight:650;fill:#14243a}.grid{stroke:#e8edf3;stroke-width:1}.axis{stroke:#cdd7e2;stroke-width:1}</style>
+<text class="title" x="36" y="42">03  |  Are the displayed Top 10 cities meaningfully different?</text>
+<text class="sub" x="36" y="67">Ranked saved Top 10 only · this is not the full city market or a growth comparison</text>
+<text class="label" text-anchor="end" x="156" y="123">01  Tucson</text>
+<rect x="170" y="108" width="650" height="21" rx="5" fill="#12a89d"/>
+<text class="value" x="829" y="123">49.99m</text>
+<text class="label" text-anchor="end" x="156" y="157">02  Jackson</text>
+<rect x="170" y="142" width="646" height="21" rx="5" fill="#2878b5"/>
+<text class="value" x="825" y="157">49.71m</text>
+<text class="label" text-anchor="end" x="156" y="191">03  Sacramento</text>
+<rect x="170" y="176" width="646" height="21" rx="5" fill="#2878b5"/>
+<text class="value" x="825" y="191">49.70m</text>
+<text class="label" text-anchor="end" x="156" y="225">04  Fort Wayne</text>
+<rect x="170" y="210" width="638" height="21" rx="5" fill="#9cb5cb"/>
+<text class="value" x="817" y="225">49.14m</text>
+<text class="label" text-anchor="end" x="156" y="259">05  Indianapolis</text>
+<rect x="170" y="244" width="635" height="21" rx="5" fill="#9cb5cb"/>
+<text class="value" x="814" y="259">48.85m</text>
+<text class="label" text-anchor="end" x="156" y="293">06  Columbus</text>
+<rect x="170" y="278" width="632" height="21" rx="5" fill="#9cb5cb"/>
+<text class="value" x="811" y="293">48.67m</text>
+<text class="label" text-anchor="end" x="156" y="327">07  Charlotte</text>
+<rect x="170" y="312" width="631" height="21" rx="5" fill="#9cb5cb"/>
+<text class="value" x="810" y="327">48.57m</text>
+<text class="label" text-anchor="end" x="156" y="361">08  San Antonio</text>
+<rect x="170" y="346" width="630" height="21" rx="5" fill="#9cb5cb"/>
+<text class="value" x="809" y="361">48.50m</text>
+<text class="label" text-anchor="end" x="156" y="395">09  Rochester</text>
+<rect x="170" y="380" width="625" height="21" rx="5" fill="#9cb5cb"/>
+<text class="value" x="804" y="395">48.13m</text>
+<text class="label" text-anchor="end" x="156" y="429">10  Yonkers</text>
+<rect x="170" y="414" width="625" height="21" rx="5" fill="#9cb5cb"/>
+<text class="value" x="804" y="429">48.09m</text>
+<line x1="806.310558942547" y1="104" x2="806.310558942547" y2="440" stroke="#f0ad4e" stroke-width="2" stroke-dasharray="6,5"/>
+<text class="small" x="170" y="456">Mean 48.94m · range 1.90m · relative range 3.88%</text>
+</svg>
